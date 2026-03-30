@@ -1,4 +1,4 @@
-# cachyos-rice
-KDE Plasma Rice for my CachyOS Desktop
+# cachyos-dot-files
+<h2>KDE Plasma Dot Files for my CachyOS Desktop</h2>
 
-![my dot files]([https://imgur.com/iaypRxN])
+![my dot files](https://imgur.com/iaypRxN)
